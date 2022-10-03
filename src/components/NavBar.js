@@ -1,4 +1,3 @@
-/* define the NavBar component */
 import React from "react";
 import { NavLink } from "react-router-dom";
 
